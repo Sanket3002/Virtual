@@ -1,3 +1,3 @@
 # Virtual
-Very Soon
-Hello plz give me a t shirt
+print("Very Soon")
+print("Hello plz give me a t shirt')
